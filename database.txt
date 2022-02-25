@@ -1,0 +1,4 @@
+email, subject, message
+
+a@b.com,Test,This is only a test.
+fakemane@fakemail.com,Fake,This is a fake test.
